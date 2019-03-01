@@ -1,0 +1,6 @@
+BANG THONG KE DIEM TRUNG BINH KHOA HOC
+Lop: D13 CONG NGHE THONG TIN 01    Nam nhap hoc: 2013
+STT        MASV          HO           TEN             DiemTB    
+1       N13CN100     NGUYEN VAN           MINH              6
+1       N13CN101             VO          THANH            6.5
+1       N13CN103       PHAM THI             AN              9

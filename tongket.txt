@@ -1,0 +1,9 @@
+
+
+BANG DIEM TONG KET
+Lop: D13CN1 Nam nhap hoc: 2013
+
+STT      Masv                       HoTen         CTDL   KTDH   TRR   TCC   GT   MAC   XLDPT   XLTT   HDH   HDT   
+1       N13CN100                  NGUYEN VANMINH   7     5     7     5     7     5     7     5     7     5  
+1       N13CN101                         VOTHANH   6     7     6     7     6     7     6     7     6     7  
+1       N13CN103                      PHAM THIAN   9     9     9     9     9     9     9     9     9     9  
